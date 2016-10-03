@@ -1,3 +1,0 @@
-# YetiForce.com
-User-agent: *
-Disallow: /
